@@ -1,1 +1,1 @@
-> Chat freely, connect easily, anytime, anywhere 
+> Chat freely, connect easily, anytime, anywhere
