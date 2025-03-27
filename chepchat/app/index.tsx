@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>James Mukuvi</Text>
+      <Text>Home</Text>
     </View>
   );
 }
