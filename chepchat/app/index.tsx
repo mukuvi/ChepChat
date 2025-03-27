@@ -11,6 +11,7 @@ export default function Index() {
       }}
     >
       <Text>Home</Text>
+      <Link href="/about">About</Link>
     </View>
   );
 }
