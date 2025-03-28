@@ -1,16 +1,21 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
+import { Link } from "expo-router";
 
 export default function productList() {
   return (
-    <View>
-      <Text style={styles.container}>product List</Text>
+    <View style={styles.container}>
+      <Text>product List</Text>
+      <Link href="/">Home</Link>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    textAlign: "center",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: 20,
   },
 });
