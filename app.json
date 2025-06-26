@@ -4,7 +4,7 @@
     "slug": "chepchat",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "https://via.placeholder.com/1024x1024/4F46E5/FFFFFF?text=C",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,21 +13,21 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "https://via.placeholder.com/1024x1024/4F46E5/FFFFFF?text=C",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "https://via.placeholder.com/48x48/4F46E5/FFFFFF?text=C"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "https://via.placeholder.com/200x200/4F46E5/FFFFFF?text=C",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
